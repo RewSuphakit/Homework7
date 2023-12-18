@@ -11,7 +11,7 @@
 // หรือ
 // ถ้า validate ผ่านให้ไปทำการ login โดยตรวจสอบ username, password
 // กับ array แบบที่เคยทำตอนโจทย์ javascript แล้วแจ้ง login successful
-
+// SUPHAKIT LOMLAO KKTECH 
 
 const loginForm = document.querySelector(".login-form");
 const Validate_Uname = document.querySelector(".Validate_Uname");
